@@ -4,7 +4,8 @@
 이미지 넣기  
 ![stom login](/images/login-g.jpg)
 
-#상업용 무료폰트 한글 10종
+## 상업용 무료폰트 한글 10종
+
 ![테스트페이지](/images/profile1.png)
 
 1. 나눔글꼴
@@ -12,4 +13,8 @@
 3. 본고딕
 4. 서울서체
 
-#각 폰트별 다운로드 & 라이선ㅅ
+## 각 폰트별 다운로드 & 라이선스
+[naver-post #link](https:/post.naver.com/viewer/postView.nhn?volumeNo=16277816)
+위 클릭하시면 각 폰트별 **라이선스** 확인할 수 있습니다.
+
+:octocat:
