@@ -1,2 +1,3 @@
 # stomplus
 stomplus
+! [login.gif]
